@@ -104,7 +104,7 @@ def parse_xml(content: bytes, label: str) -> Optional[ET.Element]:
         return None
 
 
-def fetch_epg_elements(url: str, valid_ids: set[str]) -> tuple[list[ET.Element], list[ET.Element]]:
+def fetch_epg_elements(url: str) -> tuple[list[ET.Element], list[ET.Element]]:
     filename = url.split("/")[-1]
     print(f"Processing: {filename}")
 
@@ -123,16 +123,13 @@ def fetch_epg_elements(url: str, valid_ids: set[str]) -> tuple[list[ET.Element],
             print(f"  ! Skipping {filename}: unparseable after all fallbacks.")
             return channels, programmes
 
-        for channel in epg_root.findall("channel"):
-            cid = channel.get("id")
-            if cid and cid in valid_ids:
-                channels.append(channel)
+        # Collect ALL channels from remote sources
+        channels.extend(epg_root.findall("channel"))
 
+        # Collect ALL programmes from remote sources (don't filter by channel ID)
         for prog in epg_root.findall("programme"):
-            cname = prog.get("channel")
-            if cname and cname in valid_ids:
-                _apply_title_rewrite(prog)
-                programmes.append(prog)
+            _apply_title_rewrite(prog)
+            programmes.append(prog)
 
         print(f"  -> +{len(channels)} channels, +{len(programmes)} programmes")
     except Exception as e:
@@ -200,7 +197,7 @@ def main(argv=None):
 
     print("\nInjecting remote EPG sources...")
     for url in REMOTE_EPG_URLS:
-        channels, programmes = fetch_epg_elements(url, seen_channel_ids)
+        channels, programmes = fetch_epg_elements(url)
         merge_into_root(master_root, channels, programmes, seen_channel_ids, seen_programme_keys)
         time.sleep(1)
 
