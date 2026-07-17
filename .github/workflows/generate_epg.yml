@@ -66,11 +66,11 @@ jobs:
         run: |
           npm run grab -- \
             --channels=sites/custom.channels.xml \
-            --output=../epgs/guide.xml \
+            --output=../epgs/epg.xml \
             --maxConnections=8
 
-      - name: Backup pre-merge guide.xml
-        run: cp epgs/guide.xml epgs/guide.xml.bak
+      - name: Backup pre-merge epg.xml
+        run: cp epgs/epg.xml epgs/epg.xml.bak
 
       # ========================================================
       # LANGKAH 2: Jalankan Fungsi 2 (generate_epg.py)
@@ -84,8 +84,8 @@ jobs:
       - name: Restore backup on merge failure
         if: failure() && steps.merge_epg.outcome == 'failure'
         run: |
-          echo "generate_epg.py failed sanity check or crashed. Restoring pre-merge guide.xml."
-          mv epgs/guide.xml.bak epgs/guide.xml
+          echo "generate_epg.py failed sanity check or crashed. Restoring pre-merge epg.xml."
+          mv epgs/epg.xml.bak epgs/epg.xml
 
       # ========================================================
       # LANGKAH 3: Validasi XML & Index channels.txt
@@ -96,11 +96,11 @@ jobs:
           import xml.etree.ElementTree as ET
           import sys
 
-          path = "epgs/guide.xml"
+          path = "epgs/epg.xml"
           try:
               root = ET.parse(path).getroot()
           except Exception as e:
-              print(f"FATAL: guide.xml is not well-formed XML: {e}")
+              print(f"FATAL: epg.xml is not well-formed XML: {e}")
               sys.exit(1)
 
           channels = len(root.findall("channel"))
@@ -110,7 +110,7 @@ jobs:
           print(f"Total Programmes: {programmes}")
 
           if channels == 0 or programmes == 0:
-              print("FATAL: guide.xml has zero channels or programmes. Refusing to commit.")
+              print("FATAL: epg.xml has zero channels or programmes. Refusing to commit.")
               sys.exit(1)
           PY
 
@@ -145,7 +145,7 @@ jobs:
 
       - name: Cleanup backup file
         if: success()
-        run: rm -f epgs/guide.xml.bak
+        run: rm -f epgs/epg.xml.bak
 
       # ========================================================
       # LANGKAH 4: Push Bersih Tanpa Merusak Commit Utama
