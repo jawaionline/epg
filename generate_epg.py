@@ -14,7 +14,6 @@ try:
 except ImportError:
     HAS_LXML = False
 
-M3U_URL = os.getenv("M3U_URL")
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(BASE_DIR, "epgs")
 OUTPUT_XML = os.path.join(OUTPUT_DIR, "epg.xml")
@@ -184,12 +183,6 @@ def save_epg(root: ET.Element) -> None:
     with gzip.open(OUTPUT_GZ, "wb") as f:
         tree.write(f, encoding="utf-8", xml_declaration=True)
 
-
-def main() -> None:
-    valid_ids = get_tvg_ids_from_m3u()
-    if not valid_ids:
-        print("Aborting: valid_ids required for filtering.")
-        sys.exit(1)
 
     master_root = load_base_epg()
     seen_channel_ids = {ch.get("id") for ch in master_root.findall("channel") if ch.get("id")}
