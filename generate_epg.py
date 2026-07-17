@@ -17,8 +17,8 @@ except ImportError:
 M3U_URL = os.getenv("M3U_URL")
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 OUTPUT_DIR = os.path.join(BASE_DIR, "epgs")
-OUTPUT_XML = os.path.join(OUTPUT_DIR, "guide.xml")
-OUTPUT_GZ = os.path.join(OUTPUT_DIR, "guide.xml.gz")
+OUTPUT_XML = os.path.join(OUTPUT_DIR, "epg.xml")
+OUTPUT_GZ = os.path.join(OUTPUT_DIR, "epg.xml.gz")
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
