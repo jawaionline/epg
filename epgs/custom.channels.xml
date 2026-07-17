@@ -1,31 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <channels>
-    <channel site="starhub.com" site_id="102" lang="en" xmltv_id="Channel5@HD">Channel 5 HD</channel>
-    <channel site="starhub.com" site_id="103" lang="en" xmltv_id="Channel8@HD">Channel 8 HD</channel>
-    <channel site="starhub.com" site_id="104" lang="en" xmltv_id="Suria@HD">Suria HD</channel>
-    <channel site="starhub.com" site_id="105" lang="en" xmltv_id="Vasantham@HD">Vasantham HD</channel>
-    <channel site="starhub.com" site_id="106" lang="en" xmltv_id="ChannelNewsAsia@HD">Channel News Asia HD</channel>
-    <channel site="starhub.com" site_id="107" lang="en" xmltv_id="ChannelU@HD">Channel U HD</channel>
-    <channel site="starhub.com" site_id="115" lang="en" xmltv_id="Citra Entertainment@HD">Citra Entertainment</channel>
-    <channel site="starhub.com" site_id="HubPremier1.sg" lang="en" xmltv_id="HubPremier1.sg@HD">SG - Hub Premier 1</channel>
-    <channel site="starhub.com" site_id="HubPremier2.sg" lang="en" xmltv_id="HubPremier2.sg@HD">SG - Hub Premier 2</channel>
-    <channel site="starhub.com" site_id="HubPremier3.sg" lang="en" xmltv_id="HubPremier3.sg@HD">SG - Hub Premier 3</channel>
-    <channel site="starhub.com" site_id="HubPremier4.sg" lang="en" xmltv_id="HubPremier4.sg@HD">SG - Hub Premier 4</channel>
-    <channel site="starhub.com" site_id="HubPremier5.sg" lang="en" xmltv_id="HubPremier5.sg@HD">SG - Hub Premier 5</channel>
-    <channel site="starhub.com" site_id="HubPremier6.sg" lang="en" xmltv_id="HubPremier6.sg@HD">SG - Hub Premier 6</channel>
-    <channel site="starhub.com" site_id="HubPremier7.sg" lang="en" xmltv_id="HubPremier7.sg@HD">SG - Hub Premier 7</channel>
-    <channel site="starhub.com" site_id="HubPremier8.sg" lang="en" xmltv_id="HubPremier8.sg@HD">SG - Hub Premier 8</channel>
-    <channel site="starhub.com" site_id="HubPremier9.sg" lang="en" xmltv_id="HubPremier9.sg@HD">SG - Hub Premier 9</channel>
-    <channel site="starhub.com" site_id="HubPremier10.sg" lang="en" xmltv_id="HubPremier10.sg@HD">SG - Hub Premier 10</channel>
-    <channel site="starhub.com" site_id="HubPremier11.sg" lang="en" xmltv_id="HubPremier11.sg@HD">SG - Hub Premier 11</channel>
-    <channel site="starhub.com" site_id="HubSports1.sg" lang="en" xmltv_id="HubSports1.sg@HD">SG - Hub Sports 1</channel>
-    <channel site="starhub.com" site_id="HubSports2.sg" lang="en" xmltv_id="HubSports2.sg@HD">SG - Hub Sports 2</channel>
-    <channel site="starhub.com" site_id="HubSports3.sg" lang="en" xmltv_id="HubSports3.sg@HD">SG - Hub Sports 3</channel>
-    <channel site="starhub.com" site_id="HubSports4.sg" lang="en" xmltv_id="HubSports4.sg@HD">SG - Hub Sports 4</channel>
-    <channel site="starhub.com" site_id="HubSports5.sg" lang="en" xmltv_id="HubSports5.sg@HD">SG - Hub Sports 5</channel>
-    <channel site="starhub.com" site_id="HubSports6.sg" lang="en" xmltv_id="HubSports6.sg@HD">SG - Hub Sports 6</channel>
-    <channel site="starhub.com" site_id="HubSports7.sg" lang="en" xmltv_id="HubSports7.sg@HD">SG - Hub Sports 7</channel>
-    <channel site="starhub.com" site_id="HubSports8.sg" lang="en" xmltv_id="HubSports8.sg@HD">SG - Hub Sports 8</channel>
-    <channel site="starhub.com" site_id="SPOTV.sg" lang="en" xmltv_id="SPOTV.sg@HD">SG - SPOTV</channel>
-    <channel site="starhub.com" site_id="SPOTV2.sg" lang="en" xmltv_id="SPOTV2.sg@HD">SG - SPOTV 2</channel>
+    <channel site="singtel.com" site_id="102" lang="en" xmltv_id="Channel5@HD">Channel 5 HD</channel>
+    <channel site="singtel.com" site_id="103" lang="en" xmltv_id="Channel8@HD">Channel 8 HD</channel>
+    <channel site="singtel.com" site_id="104" lang="en" xmltv_id="Suria@HD">Suria HD</channel>
+    <channel site="singtel.com" site_id="105" lang="en" xmltv_id="Vasantham@HD">Vasantham HD</channel>
+    <channel site="singtel.com" site_id="106" lang="en" xmltv_id="ChannelNewsAsia@HD">Channel News Asia HD</channel>
+    <channel site="singtel.com" site_id="107" lang="en" xmltv_id="ChannelU@HD">Channel U HD</channel>
+    <channel site="singtel.com" site_id="115" lang="en" xmltv_id="Citra Entertainment@HD">Citra Entertainment</channel>
+    <channel site="singtel.com" site_id="HubPremier1.sg" lang="en" xmltv_id="HubPremier1.sg@HD">SG - Hub Premier 1</channel>
+    <channel site="singtel.com" site_id="HubPremier2.sg" lang="en" xmltv_id="HubPremier2.sg@HD">SG - Hub Premier 2</channel>
+    <channel site="singtel.com" site_id="HubPremier3.sg" lang="en" xmltv_id="HubPremier3.sg@HD">SG - Hub Premier 3</channel>
+    <channel site="singtel.com" site_id="HubPremier4.sg" lang="en" xmltv_id="HubPremier4.sg@HD">SG - Hub Premier 4</channel>
+    <channel site="singtel.com" site_id="HubPremier5.sg" lang="en" xmltv_id="HubPremier5.sg@HD">SG - Hub Premier 5</channel>
+    <channel site="singtel.com" site_id="HubPremier6.sg" lang="en" xmltv_id="HubPremier6.sg@HD">SG - Hub Premier 6</channel>
+    <channel site="singtel.com" site_id="HubPremier7.sg" lang="en" xmltv_id="HubPremier7.sg@HD">SG - Hub Premier 7</channel>
+    <channel site="singtel.com" site_id="HubPremier8.sg" lang="en" xmltv_id="HubPremier8.sg@HD">SG - Hub Premier 8</channel>
+    <channel site="singtel.com" site_id="HubPremier9.sg" lang="en" xmltv_id="HubPremier9.sg@HD">SG - Hub Premier 9</channel>
+    <channel site="singtel.com" site_id="HubPremier10.sg" lang="en" xmltv_id="HubPremier10.sg@HD">SG - Hub Premier 10</channel>
+    <channel site="singtel.com" site_id="HubPremier11.sg" lang="en" xmltv_id="HubPremier11.sg@HD">SG - Hub Premier 11</channel>
+    <channel site="singtel.com" site_id="HubSports1.sg" lang="en" xmltv_id="HubSports1.sg@HD">SG - Hub Sports 1</channel>
+    <channel site="singtel.com" site_id="HubSports2.sg" lang="en" xmltv_id="HubSports2.sg@HD">SG - Hub Sports 2</channel>
+    <channel site="singtel.com" site_id="HubSports3.sg" lang="en" xmltv_id="HubSports3.sg@HD">SG - Hub Sports 3</channel>
+    <channel site="singtel.com" site_id="HubSports4.sg" lang="en" xmltv_id="HubSports4.sg@HD">SG - Hub Sports 4</channel>
+    <channel site="singtel.com" site_id="HubSports5.sg" lang="en" xmltv_id="HubSports5.sg@HD">SG - Hub Sports 5</channel>
+    <channel site="singtel.com" site_id="HubSports6.sg" lang="en" xmltv_id="HubSports6.sg@HD">SG - Hub Sports 6</channel>
+    <channel site="singtel.com" site_id="HubSports7.sg" lang="en" xmltv_id="HubSports7.sg@HD">SG - Hub Sports 7</channel>
+    <channel site="singtel.com" site_id="HubSports8.sg" lang="en" xmltv_id="HubSports8.sg@HD">SG - Hub Sports 8</channel>
+    <channel site="singtel.com" site_id="SPOTV.sg" lang="en" xmltv_id="SPOTV.sg@HD">SG - SPOTV</channel>
+    <channel site="singtel.com" site_id="SPOTV2.sg" lang="en" xmltv_id="SPOTV2.sg@HD">SG - SPOTV 2</channel>
 </channels>
