@@ -34,21 +34,6 @@ PRUNE_OLDER_THAN_HOURS = 6
 MIN_PROGRAMME_SANITY_THRESHOLD = 50
 
 
-def get_tvg_ids_from_m3u() -> Optional[set[str]]:
-    if not M3U_URL:
-        print("CRITICAL: M3U_URL secret not set.")
-        return None
-    print("Downloading M3U playlist...")
-    try:
-        r = requests.get(M3U_URL, timeout=30)
-        r.raise_for_status()
-        ids = set(re.findall(r'tvg-id="([^"]+)"', r.text))
-        print(f"  -> {len(ids)} unique tvg-ids found.")
-        return ids
-    except Exception as e:
-        print(f"  ! Failed to fetch M3U: {e}")
-        return None
-
 
 def _parse_xmltv_time(value: str) -> Optional[datetime]:
     if not value:
