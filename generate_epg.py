@@ -184,6 +184,11 @@ def save_epg(root: ET.Element) -> None:
         tree.write(f, encoding="utf-8", xml_declaration=True)
 
 
+def main(argv=None):
+    """Entry point for the generator script."""
+    if argv is None:
+        argv = sys.argv[1:]
+
     master_root = load_base_epg()
     seen_channel_ids = {ch.get("id") for ch in master_root.findall("channel") if ch.get("id")}
     seen_programme_keys = {
@@ -195,7 +200,7 @@ def save_epg(root: ET.Element) -> None:
 
     print("\nInjecting remote EPG sources...")
     for url in REMOTE_EPG_URLS:
-        channels, programmes = fetch_epg_elements(url, valid_ids)
+        channels, programmes = fetch_epg_elements(url, seen_channel_ids)
         merge_into_root(master_root, channels, programmes, seen_channel_ids, seen_programme_keys)
         time.sleep(1)
 
