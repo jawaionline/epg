@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="vidio.com" site_id="7619" lang="id" xmltv_id="MUSICA">MUSICA</channel>
+  <channel site="vidio.com" site_id="18105" lang="id" xmltv_id="GGSTV">GGS TV</channel>
+  <channel site="vidio.com" site_id="21178" lang="id" xmltv_id="VoliTV2">Voli TV 2</channel>
+  <channel site="vidio.com" site_id="20216" lang="id" xmltv_id="ChampionsFight.id@HD">Champions Fight</channel>
+  <channel site="vidio.com" site_id="18189" lang="id" xmltv_id="ChampionsGolf1.id@HD">Champions Golf 1</channel>
+  <channel site="vidio.com" site_id="18190" lang="id" xmltv_id="ChampionsGolf2.id@HD">Champions Golf 2</channel>
+  <channel site="vidio.com" site_id="6685" lang="id" xmltv_id="ChampionsTV1.id@SD">Champions TV 1</channel>
+  <channel site="vidio.com" site_id="6686" lang="id" xmltv_id="ChampionsTV2.id@SD">Champions TV 2</channel>
+  <channel site="vidio.com" site_id="6786" lang="id" xmltv_id="ChampionsTV3.id@SD">Champions TV 3</channel>
+  <channel site="vidio.com" site_id="9182" lang="id" xmltv_id="ChampionsTV5.id@SD">Champions TV 5</channel>
+  <channel site="vidio.com" site_id="9183" lang="id" xmltv_id="ChampionsTV6.id@SD">Champions TV 6</channel>
+  <channel site="vidio.com" site_id="9353" lang="id" xmltv_id="ChampionsTVEPL.id@SD">Premier League TV</channel>
+  <channel site="vidio.com" site_id="21179" lang="id" xmltv_id="CitraDrama.id@SD">Citra Drama</channel>
+  <channel site="vidio.com" site_id="10975" lang="id" xmltv_id="ElshintaTV.id@SD">Elshinta TV</channel>
+  <channel site="vidio.com" site_id="7052" lang="id" xmltv_id="HipHipHoree.id@SD">Hip Hip Horee!</channel>
+  <channel site="vidio.com" site_id="6397" lang="id" xmltv_id="Horee.id@SD">Horee</channel>
+  <channel site="vidio.com" site_id="9714" lang="id" xmltv_id="JawaPosTV.id@SD">jawaposTV</channel>
+  <channel site="vidio.com" site_id="875" lang="id" xmltv_id="MDTV.id@HD">MDTV</channel>
+  <channel site="vidio.com" site_id="8237" lang="id" xmltv_id="MentariTV.id@SD">Mentari TV</channel>
+  <channel site="vidio.com" site_id="206" lang="id" xmltv_id="Moji.id@SD">Moji</channel>
+  <channel site="vidio.com" site_id="19538" lang="id" xmltv_id="RealMadridTVEnglish.es@SD">Real Madrid TV</channel>
+  <channel site="vidio.com" site_id="19046" lang="id" xmltv_id="SinPoTV.id@HD">Sin Po TV</channel>
+  <channel site="mewatch.sg" site_id="558112" lang="en" xmltv_id="W-Sport">W-Sport</channel>
+  <channel site="mewatch.sg" site_id="566562" lang="en" xmltv_id="HubSports3@HD">Hub Sports 3 HD</channel>
+  <channel site="mewatch.sg" site_id="569506" lang="en" xmltv_id="HubSports1@HD">Hub Sports 1 HD</channel>
+  <channel site="mewatch.sg" site_id="569510" lang="en" xmltv_id="HubSports2@HD">Hub Sports 2 HD</channel>
+  <channel site="mewatch.sg" site_id="569789" lang="en" xmltv_id="AstroWarna@HD">Astro Warna HD</channel>
+  <channel site="mewatch.sg" site_id="569790" lang="en" xmltv_id="AstroSensasi@HD">Astro Sensasi HD</channel>
+  <channel site="mewatch.sg" site_id="572374" lang="en" xmltv_id="SPOTV.sg">SPOTV</channel>
+  <channel site="mewatch.sg" site_id="572375" lang="en" xmltv_id="SPOTV2.sg">SPOTV2</channel>
+  <channel site="mewatch.sg" site_id="572409" lang="en" xmltv_id="beINSPORTS5@HD">beIN SPORTS 5 HD</channel>
+  <channel site="mewatch.sg" site_id="572410" lang="en" xmltv_id="beINSPORTS@HD">beIN SPORTS HD</channel>
+  <channel site="mewatch.sg" site_id="572412" lang="en" xmltv_id="beINSPORTS2@HD">beIN SPORTS 2 HD</channel>
+  <channel site="mewatch.sg" site_id="572413" lang="en" xmltv_id="HubSports6@HD">Hub Sports 6 HD</channel>
+  <channel site="mewatch.sg" site_id="572416" lang="en" xmltv_id="HubSports5@HD">Hub Sports 5 HD</channel>
+  <channel site="mewatch.sg" site_id="572418" lang="en" xmltv_id="beINSPORTS3@HD">beIN SPORTS 3 HD</channel>
+  <channel site="mewatch.sg" site_id="572422" lang="en" xmltv_id="HubSports4@HD">Hub Sports 4 HD</channel>
+  <channel site="mewatch.sg" site_id="572424" lang="en" xmltv_id="HubSports8@HD">Hub Sports 8 HD</channel>
+  <channel site="mewatch.sg" site_id="572425" lang="en" xmltv_id="beINSPORTS4@HD">beIN SPORTS 4 HD</channel>
+  <channel site="mewatch.sg" site_id="572426" lang="en" xmltv_id="HubSports7@HD">Hub Sports 7 HD</channel>
+  <channel site="mewatch.sg" site_id="97098" lang="en" xmltv_id="Channel5.sg@SD">Channel 5</channel>
+  <channel site="mewatch.sg" site_id="97104" lang="en" xmltv_id="Channel8.sg@SD">Channel 8</channel>
+  <channel site="mewatch.sg" site_id="97129" lang="en" xmltv_id="ChannelU.sg@SD">Channel U</channel>
+  <channel site="mewatch.sg" site_id="569781" lang="en" xmltv_id="CitraEntertainment.id@SD">Citra Entertainment</channel>
+  <channel site="mewatch.sg" site_id="97072" lang="en" xmltv_id="CNA.sg@SD">CNA</channel>
+  <channel site="mewatch.sg" site_id="557763" lang="en" xmltv_id="FIFAPlus.uk@English">FIFA+</channel>
+  <channel site="mewatch.sg" site_id="567123" lang="en" xmltv_id="HubPremier1.sg@SD">Hub Premier 1</channel>
+  <channel site="mewatch.sg" site_id="572415" lang="en" xmltv_id="HubPremier2.sg@SD">Hub Premier 2</channel>
+  <channel site="mewatch.sg" site_id="572419" lang="en" xmltv_id="HubPremier3.sg@SD">Hub Premier 3</channel>
+  <channel site="mewatch.sg" site_id="572423" lang="en" xmltv_id="HubPremier4.sg@SD">Hub Premier 4</channel>
+  <channel site="mewatch.sg" site_id="572420" lang="en" xmltv_id="HubPremier5.sg@SD">Hub Premier 5</channel>
+  <channel site="mewatch.sg" site_id="572421" lang="en" xmltv_id="HubPremier6.sg@SD">Hub Premier 6</channel>
+  <channel site="mewatch.sg" site_id="572417" lang="en" xmltv_id="HubPremier7.sg@SD">Hub Premier 7</channel>
+  <channel site="mewatch.sg" site_id="572414" lang="en" xmltv_id="HubPremier8.sg@SD">Hub Premier 8</channel>
+  <channel site="mewatch.sg" site_id="572411" lang="en" xmltv_id="HubPremier9.sg@SD">Hub Premier 9</channel>
+  <channel site="mewatch.sg" site_id="572427" lang="en" xmltv_id="HubPremier10.sg@SD">Hub Premier 10</channel>
+  <channel site="mewatch.sg" site_id="572408" lang="en" xmltv_id="HubPremier11.sg@SD">Hub Premier 11</channel>
+  <channel site="mewatch.sg" site_id="97073" lang="en" xmltv_id="meWATCHLIVE1.sg@SD">LIVE 1</channel>
+  <channel site="mewatch.sg" site_id="98200" lang="en" xmltv_id="SPLCH01.sg@SD">SPL CH01</channel>
+  <channel site="mewatch.sg" site_id="97084" lang="en" xmltv_id="Suria.sg@SD">Suria</channel>
+  <channel site="mewatch.sg" site_id="572317" lang="en" xmltv_id="Vannathirai.sg@SD">Vannathirai</channel>
+  <channel site="mewatch.sg" site_id="97096" lang="en" xmltv_id="Vasantham.sg@SD">Vasantham</channel>
+  <channel site="rtmklik.rtm.gov.my" site_id="1" lang="ms" xmltv_id="TV1.my@SD">TV1</channel>
+  <channel site="rtmklik.rtm.gov.my" site_id="2" lang="ms" xmltv_id="TV2.my@SD">TV2</channel>
+  <channel site="rtmklik.rtm.gov.my" site_id="3" lang="ms" xmltv_id="Okey.my@SD">Okey</channel>
+  <channel site="rtmklik.rtm.gov.my" site_id="4" lang="ms" xmltv_id="SukanRTM.my@SD">Sukan RTM</channel>
+  <channel site="rtmklik.rtm.gov.my" site_id="7" lang="ms" xmltv_id="BeritaRTM.my@SD">Berita RTM</channel>
+  <channel site="rtmklik.rtm.gov.my" site_id="8" lang="ms" xmltv_id="TV6.my@SD">TV6</channel>
+  <channel site="rtmklik.rtm.gov.my" site_id="9" lang="ms" xmltv_id="">Dewan Rakyat</channel>
+  <channel site="rtmklik.rtm.gov.my" site_id="10" lang="ms" xmltv_id="">Dewan Negara</channel>
+  <channel site="content.astro.com.my" site_id="48" lang="ms" xmltv_id="TV9.my@SD">TV9</channel>
+  <channel site="content.astro.com.my" site_id="93" lang="ms" xmltv_id="NTV7.my@SD">NTV7</channel>
+  <channel site="content.astro.com.my" site_id="106" lang="ms" xmltv_id="TV3.my@SD">TV3</channel>
+  <channel site="content.astro.com.my" site_id="115" lang="ms" xmltv_id="8TV.my@SD">8TV</channel>
+  <channel site="content.astro.com.my" site_id="160" lang="ms" xmltv_id="BernamaTV.my@SD">BERNAMA</channel>
+  <channel site="content.astro.com.my" site_id="193" lang="ms" xmltv_id="AstroRia.my@SD">Astro Ria</channel>
+  <channel site="content.astro.com.my" site_id="197" lang="ms" xmltv_id="AstroCricket.my@SD">Astro Cricket</channel>
+  <channel site="content.astro.com.my" site_id="235" lang="ms" xmltv_id="AstroArena.my@SD">Astro Arena</channel>
+  <channel site="content.astro.com.my" site_id="280" lang="ms" xmltv_id="">Astro Sports Plus 2</channel>
+  <channel site="content.astro.com.my" site_id="301" lang="ms" xmltv_id="AstroCitra.my@SD">Astro Citra</channel>
+  <channel site="content.astro.com.my" site_id="308" lang="en" xmltv_id="AstroUHD.my@SD">Astro Sports UHD 805</channel>
+  <channel site="content.astro.com.my" site_id="316" lang="ms" xmltv_id="AstroPrima.my@SD">Astro Prima</channel>
+  <channel site="content.astro.com.my" site_id="386" lang="ms" xmltv_id="AstroCeria.my@SD">Astro Ceria</channel>
+  <channel site="content.astro.com.my" site_id="400" lang="ms" xmltv_id="AstroAura.my@SD">Astro Aura</channel>
+  <channel site="content.astro.com.my" site_id="401" lang="en" xmltv_id="AstroRania.my@SD">Astro Rania</channel>
+  <channel site="content.astro.com.my" site_id="411" lang="ms" xmltv_id="AstroTutorTVSPM.my@SD">Astro Tutor TV</channel>
+  <channel site="content.astro.com.my" site_id="429" lang="ms" xmltv_id="TVS.my@SD">TV Sarawak</channel>
+  <channel site="content.astro.com.my" site_id="436" lang="ms" xmltv_id="AstroAwani.my@SD">Astro Awani HD</channel>
+  <channel site="content.astro.com.my" site_id="457" lang="ms" xmltv_id="AstroArena2.my@SD">Astro Arena 2</channel>
+  <channel site="content.astro.com.my" site_id="486" lang="ms" xmltv_id="">Arena Bola</channel>
+  <channel site="content.astro.com.my" site_id="487" lang="ms" xmltv_id="">Arena Bola 2</channel>
+  <channel site="content.astro.com.my" site_id="536" lang="ms" xmltv_id="">Astro Premier League</channel>
+  <channel site="content.astro.com.my" site_id="537" lang="ms" xmltv_id="">Astro Premier League 2</channel>
+  <channel site="content.astro.com.my" site_id="538" lang="ms" xmltv_id="">Astro Premier League 3</channel>
+  <channel site="content.astro.com.my" site_id="539" lang="ms" xmltv_id="">Astro Football</channel>
+  <channel site="content.astro.com.my" site_id="540" lang="ms" xmltv_id="">Astro Badminton</channel>
+  <channel site="content.astro.com.my" site_id="541" lang="ms" xmltv_id="">Astro Badminton 2</channel>
+  <channel site="content.astro.com.my" site_id="542" lang="ms" xmltv_id="">Astro Sports Plus</channel>
+  <channel site="content.astro.com.my" site_id="543" lang="ms" xmltv_id="">Astro Grandstand</channel>
+  <channel site="playtv.unifi.com.my" site_id="20000003" lang="my" xmltv_id="Inspirasi.my@SD">Inspirasi</channel>
+  <channel site="playtv.unifi.com.my" site_id="20000046" lang="my" xmltv_id="DuniaSinema.my@SD">Dunia Sinema HD</channel>
+  <channel site="playtv.unifi.com.my" site_id="20000063" lang="my" xmltv_id="Pesona.my@SD">Pesona HD</channel>
+  <channel site="playtv.unifi.com.my" site_id="20000070" lang="my" xmltv_id="SalamTV.id@SD">Salam HD</channel>
+  <channel site="playtv.unifi.com.my" site_id="20000089" lang="my" xmltv_id="Sensasi.my@SD">Sensasi</channel>
+  <channel site="playtv.unifi.com.my" site_id="20000091" lang="ia" xmltv_id="BernamaTV.my@SD">Bernama TV</channel>
+  <channel site="playtv.unifi.com.my" site_id="54185493" lang="my" xmltv_id="UnifiSports1.my@SD">unifi Sports 1</channel>
+  <channel site="playtv.unifi.com.my" site_id="55631601" lang="en" xmltv_id="">DEGUP</channel>
+  <channel site="playtv.unifi.com.my" site_id="56919296" lang="my" xmltv_id="SIAR.my@SD">SIAR</channel>
+  <channel site="playtv.unifi.com.my" site_id="57623657" lang="my" xmltv_id="ParlimenMalaysia.my@SD">Parlimen Malaysia</channel>
+</channels>
