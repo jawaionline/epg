@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="vidio.com" site_id="7619" lang="id" xmltv_id="">MUSICA</channel>
-  <channel site="vidio.com" site_id="18105" lang="id" xmltv_id="">GGS TV</channel>
-  <channel site="vidio.com" site_id="21178" lang="id" xmltv_id="">Voli TV 2</channel>
+  <channel site="vidio.com" site_id="7619" lang="id" xmltv_id="MUSICA">MUSICA</channel>
+  <channel site="vidio.com" site_id="18105" lang="id" xmltv_id="GGSTV">GGS TV</channel>
+  <channel site="vidio.com" site_id="21178" lang="id" xmltv_id="VoliTV2">Voli TV 2</channel>
   <channel site="vidio.com" site_id="20216" lang="id" xmltv_id="ChampionsFight.id@HD">Champions Fight</channel>
   <channel site="vidio.com" site_id="18189" lang="id" xmltv_id="ChampionsGolf1.id@HD">Champions Golf 1</channel>
   <channel site="vidio.com" site_id="18190" lang="id" xmltv_id="ChampionsGolf2.id@HD">Champions Golf 2</channel>
@@ -22,24 +22,24 @@
   <channel site="vidio.com" site_id="206" lang="id" xmltv_id="Moji.id@SD">Moji</channel>
   <channel site="vidio.com" site_id="19538" lang="id" xmltv_id="RealMadridTVEnglish.es@SD">Real Madrid TV</channel>
   <channel site="vidio.com" site_id="19046" lang="id" xmltv_id="SinPoTV.id@HD">Sin Po TV</channel>
-  <channel site="mewatch.sg" site_id="558112" lang="en" xmltv_id="">W-Sport</channel>
-  <channel site="mewatch.sg" site_id="566562" lang="en" xmltv_id="">Hub Sports 3 HD</channel>
-  <channel site="mewatch.sg" site_id="569506" lang="en" xmltv_id="">Hub Sports 1 HD</channel>
-  <channel site="mewatch.sg" site_id="569510" lang="en" xmltv_id="">Hub Sports 2 HD</channel>
-  <channel site="mewatch.sg" site_id="569789" lang="en" xmltv_id="">Astro Warna HD</channel>
-  <channel site="mewatch.sg" site_id="569790" lang="en" xmltv_id="">Astro Sensasi HD</channel>
-  <channel site="mewatch.sg" site_id="572374" lang="en" xmltv_id="">SPOTV</channel>
-  <channel site="mewatch.sg" site_id="572375" lang="en" xmltv_id="">SPOTV2</channel>
-  <channel site="mewatch.sg" site_id="572409" lang="en" xmltv_id="">beIN SPORTS 5 HD</channel>
-  <channel site="mewatch.sg" site_id="572410" lang="en" xmltv_id="">beIN SPORTS HD</channel>
-  <channel site="mewatch.sg" site_id="572412" lang="en" xmltv_id="">beIN SPORTS 2 HD</channel>
-  <channel site="mewatch.sg" site_id="572413" lang="en" xmltv_id="">Hub Sports 6 HD</channel>
-  <channel site="mewatch.sg" site_id="572416" lang="en" xmltv_id="">Hub Sports 5 HD</channel>
-  <channel site="mewatch.sg" site_id="572418" lang="en" xmltv_id="">beIN SPORTS 3 HD</channel>
-  <channel site="mewatch.sg" site_id="572422" lang="en" xmltv_id="">Hub Sports 4 HD</channel>
-  <channel site="mewatch.sg" site_id="572424" lang="en" xmltv_id="">Hub Sports 8 HD</channel>
-  <channel site="mewatch.sg" site_id="572425" lang="en" xmltv_id="">beIN SPORTS 4 HD</channel>
-  <channel site="mewatch.sg" site_id="572426" lang="en" xmltv_id="">Hub Sports 7 HD</channel>
+  <channel site="mewatch.sg" site_id="558112" lang="en" xmltv_id="W-Sport">W-Sport</channel>
+  <channel site="mewatch.sg" site_id="566562" lang="en" xmltv_id="HubSports3@HD">Hub Sports 3 HD</channel>
+  <channel site="mewatch.sg" site_id="569506" lang="en" xmltv_id="HubSports1@HD">Hub Sports 1 HD</channel>
+  <channel site="mewatch.sg" site_id="569510" lang="en" xmltv_id="HubSports2@HD">Hub Sports 2 HD</channel>
+  <channel site="mewatch.sg" site_id="569789" lang="en" xmltv_id="AstroWarna@HD">Astro Warna HD</channel>
+  <channel site="mewatch.sg" site_id="569790" lang="en" xmltv_id="AstroSensasi@HD">Astro Sensasi HD</channel>
+  <channel site="mewatch.sg" site_id="572374" lang="en" xmltv_id="SPOTV.sg">SPOTV</channel>
+  <channel site="mewatch.sg" site_id="572375" lang="en" xmltv_id="SPOTV2.sg">SPOTV2</channel>
+  <channel site="mewatch.sg" site_id="572409" lang="en" xmltv_id="beINSPORTS5@HD">beIN SPORTS 5 HD</channel>
+  <channel site="mewatch.sg" site_id="572410" lang="en" xmltv_id="beINSPORTS@HD">beIN SPORTS HD</channel>
+  <channel site="mewatch.sg" site_id="572412" lang="en" xmltv_id="beINSPORTS2@HD">beIN SPORTS 2 HD</channel>
+  <channel site="mewatch.sg" site_id="572413" lang="en" xmltv_id="HubSports6@HD">Hub Sports 6 HD</channel>
+  <channel site="mewatch.sg" site_id="572416" lang="en" xmltv_id="HubSports5@HD">Hub Sports 5 HD</channel>
+  <channel site="mewatch.sg" site_id="572418" lang="en" xmltv_id="beINSPORTS3@HD">beIN SPORTS 3 HD</channel>
+  <channel site="mewatch.sg" site_id="572422" lang="en" xmltv_id="HubSports4@HD">Hub Sports 4 HD</channel>
+  <channel site="mewatch.sg" site_id="572424" lang="en" xmltv_id="HubSports8@HD">Hub Sports 8 HD</channel>
+  <channel site="mewatch.sg" site_id="572425" lang="en" xmltv_id="beINSPORTS4@HD">beIN SPORTS 4 HD</channel>
+  <channel site="mewatch.sg" site_id="572426" lang="en" xmltv_id="HubSports7@HD">Hub Sports 7 HD</channel>
   <channel site="mewatch.sg" site_id="97098" lang="en" xmltv_id="Channel5.sg@SD">Channel 5</channel>
   <channel site="mewatch.sg" site_id="97104" lang="en" xmltv_id="Channel8.sg@SD">Channel 8</channel>
   <channel site="mewatch.sg" site_id="97129" lang="en" xmltv_id="ChannelU.sg@SD">Channel U</channel>
